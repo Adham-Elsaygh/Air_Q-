@@ -40,4 +40,4 @@ The firmware is designed with modularity in mind, separating sensor driver logic
 
 
 ---
-
+(Project is still work in progress,currently working on PCB)
