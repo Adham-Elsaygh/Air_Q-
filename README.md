@@ -36,7 +36,6 @@ The system is built around the **ESP32-WROOM-32** module. Power is negotiated th
 
 The firmware is designed with modularity in mind, separating sensor driver logic from network telemetry functions.
 
-### Prerequisites
 * **IDE:** Arduino IDE.
 * **Framework:** Arduino Core for ESP32 (portable to Zephyr RTOS / ESP-IDF).
 
