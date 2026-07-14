@@ -9,7 +9,6 @@ An ESP32-powered environmental monitoring node and weather station built on a cu
 * **Custom PCB Design:** Engineered from scratch with a focus on stable power delivery and signal integrity:
     * **USB-C Power Input:** Modern, reliable power delivery interface.
     * **Noise Mitigation:** Strategically placed decoupling capacitors to suppress high-frequency noise and ensure stable MCU and sensor operation.
-* **Sensor Suite:** Supports a combination of analog air quality sensors and digital environmental sensors.
 
 ---
 
