@@ -1,6 +1,6 @@
 # Air_Q
 # ESP32 Air Quality & Temprature Sensor
-<img src="photos/photo1.jpg" width="400" />
+<img src="[photos/photo1.jpg](https://github.com/Adham-Elsaygh/Air_Q-/blob/64d58778e4660535464d928db8ef176c09425b5f/IMG_0384.JPG)" width="400" />
 
 An ESP32-powered environmental monitoring node and weather station built on a custom-designed PCB. This project integrates  digital sensor suites to log real-time air quality metrics, temperature, and humidity, emphasizing robust hardware design principles and clean embedded firmware.
 
