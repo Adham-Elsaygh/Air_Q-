@@ -25,7 +25,7 @@ The system is built around the **ESP32-WROOM-32** module. Power is negotiated th
     * Decoupling capacitors (100nF and 10µF ceramic) placed as close as possible to the IC power pins to filter out supply ripple.
 * **Sensors:**
     * **SCD-40:** Digital temperature/humidity sensor (interfaced via I2C).
-    <img src="Prototype_image/Schmatic.png" width="700" />
+    <img src="Prototype_image/Schmatic.png" width="900" />
 ---
 
 
