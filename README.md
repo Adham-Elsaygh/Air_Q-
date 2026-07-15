@@ -26,9 +26,8 @@ The system is built around the **ESP32-WROOM-32** module. Power is negotiated th
 * **Sensors:**
     * **SCD-40:** Digital temperature/humidity sensor (interfaced via I2C).
   
-    <img src="Prototype_image/Schmatic.png" width="900" />
+    <img src="Prototype_image/Schmatic.png" width="800" />
 
----
 
 
 
