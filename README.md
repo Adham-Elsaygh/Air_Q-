@@ -1,6 +1,6 @@
 # Air_Q
 # ESP32 Air Quality & Temprature Sensor
-<img src="Prototype_image/WebPage_Test.png" width="400" />
+<img src="Prototype_image/WebPage_Test.png" width="500" />
 Prototype_image/Schmatic.png
 An ESP32-powered environmental monitoring node and weather station built on a custom-designed PCB. This project integrates  digital sensor suites to log real-time air quality metrics, temperature, and humidity, emphasizing robust hardware design principles and clean embedded firmware.
 
