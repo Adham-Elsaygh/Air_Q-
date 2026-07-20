@@ -43,8 +43,10 @@ The firmware is designed with modularity in mind, separating sensor driver logic
 
 ---
 ## 🔌 PCB Design & Layout
+
    
-   <img src="Prototype_image/Schmatic.png" width="800" />
-    <img src="Prototype_image/Schmatic.png" width="800" />
+   <img src="Prototype_image/PCB_3D.png" width="800" />
+Note: The current prototype connects the SCD-40 module via pin headers for easy testing. Future PCB revisions will feature a surface-mounted SCD-40 soldered directly onto the board. 
+<img src="Prototype_image/PCB_xray.png" width="800" />
 
 
