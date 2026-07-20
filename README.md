@@ -20,7 +20,8 @@ The system is built around the **ESP32-WROOM-32** module. Power is negotiated th
 
 ### Key Components & Design Choices
 * **Microcontroller:** ESP32 (Wi-Fi & Bluetooth LE enabled)
-* **Power Section:** * USB-C input with ESD protection.
+* **Power Section:**
+    * USB-C input with ESD protection.
     * Low-dropout (LDO) linear regulator for a stable 3.3V rail.
     * Decoupling capacitors (100nF and 10µF ceramic) placed as close as possible to the IC power pins to filter out supply ripple.
 * **Sensors:**
