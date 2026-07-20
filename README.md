@@ -42,4 +42,9 @@ The firmware is designed with modularity in mind, separating sensor driver logic
 
 
 ---
-(Project is still work in progress,currently working on PCB)
+## 🔌 PCB Design & Layout
+   
+   <img src="Prototype_image/Schmatic.png" width="800" />
+    <img src="Prototype_image/Schmatic.png" width="800" />
+
+
